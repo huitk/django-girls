@@ -25,7 +25,7 @@ SECRET_KEY = 'mxkq$=z9ps=my+r=2+^(gl29b+(st-j^+8&w(ve6_fly&y%+gk'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'huitk.pythonanywhere.com']
 
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
 
